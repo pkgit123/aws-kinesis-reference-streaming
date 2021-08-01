@@ -14,3 +14,4 @@ Collection of references for AWS Kinesis to stream data
 * Documentation KPL Retries and Rate Limiting.  https://docs.aws.amazon.com/streams/latest/dev/kinesis-producer-adv-retries-rate-limiting.html. 
   * The PutRecords operation sends requests to your stream that occasionally exhibit full or partial failures. Records that fail are automatically added back to the KPL buffer. 
 * Announcement Lambda supports MSK as an event source.  https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-now-supports-amazon-managed-streaming-for-apache-kafka-as-an-event-source/
+* Documentation Real-time processing of cloudwatch logs subscriptions to Kinesis.  https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Subscriptions.html
